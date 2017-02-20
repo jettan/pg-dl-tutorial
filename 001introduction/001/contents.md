@@ -15,14 +15,22 @@ Chainerを使ったディープラーニングの開発
 * Develop applications for image recognition, speech recognition, and reinforcement learning
 
 
-<CTBではユーザーは実際にコードを書いて実行しながらディープラーニングを学べます。>
+<!---<CTBではユーザーは実際にコードを書いて実行しながらディープラーニングを学べます。-->
+In CTB, users can learn deep learning while getting a hands-on experience by writing and executing code.
 
-CTBは複数の章から構成されています。
-前から順番に読むことをお勧めしますが一部分だけ知りたい場合は先に読み進めても大丈夫です。
+<!--CTBは複数の章から構成されています。
+前から順番に読むことをお勧めしますが一部分だけ知りたい場合は先に読み進めても大丈夫です-->
+CTB consists of multiple chapters which we recommend reading in the order they are written in.
+If you are however interested in specific chapters, then please proceed by all means.
 
-それではさっそくはじめていきましょう。
 
-## ヒント
+<!--それではさっそくはじめていきましょう。-->
+Let's get started!
 
-数学の専門知識が必要な話題についてはセクション名の後に*がついています。
-このセクションは読み飛ばしても大丈夫ですが，読むことで理解が深まります。
+<!---## ヒント-->
+## Hint
+
+<!--数学の専門知識が必要な話題についてはセクション名の後に*がついています。
+このセクションは読み飛ばしても大丈夫ですが，読むことで理解が深まります。-->
+Topics that are mathematically intensive have an asterisk (*) in their section name.
+You can skip these parts, but reading it will deepen your understanding.
