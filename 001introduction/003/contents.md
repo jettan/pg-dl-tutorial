@@ -8,6 +8,7 @@ These optimal parameters are (automatically) obtained by solving the minimizatio
 
 
 <!---一般に何かを学習させたいという場合は次のステップからなります。-->
+<!-- is it right?-->
 When you want to learn something, the following steps can be applied:
 
 <!---
@@ -21,5 +22,6 @@ When you want to learn something, the following steps can be applied:
 3. Train your model by optimizing the objective function
 
 <!--- これらを順番にみていきましょう。-->
+<!-- no verb?-->
 Let's each of these steps in action in the next page.
 

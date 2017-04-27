@@ -2,7 +2,7 @@
 # Define the model to be learned (1)
 
 <!---はじめに学習対象のモデルを定義します。-->
-
+In the beginning, we define a model to be learned.
 <!---ここでは，学習対象のモデルはいくつかのパラメータを使った関数だとします。
 Pythonプログラムでいうと，学習対象のモデルはクラスのメソッドであり，パラメータはメンバ変数（インスタンス）のようなものです
 
