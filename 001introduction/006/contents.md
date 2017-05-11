@@ -1,6 +1,6 @@
 
 <!-- # 1. 学習対象のモデルを定義する (3) -->
-# Define the model to be learned (3)
+# 1. Define the model to be learned (3)
 
 <!-- Chainerでもう一つ重要なオブジェクトとしてFunctionがあります。-->
 Another important object of Chainer is Function.

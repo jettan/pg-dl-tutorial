@@ -1,5 +1,5 @@
 <!---# 1. 学習対象のモデルを定義する (1)-->
-# Define the model to be learned (1)
+# 1. Define the model to be learned (1)
 
 <!---はじめに学習対象のモデルを定義します。-->
 In the beginning, we define a model to be learned.

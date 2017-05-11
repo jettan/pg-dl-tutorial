@@ -1,5 +1,5 @@
 <!-- # 1. 学習対象のモデルを定義する (4) -->
-# Define the model to be learned (4)
+# 1. Define the model to be learned (4)
 
 <!-- これまで扱ったLinkとFunctionを組み合わせて，学習対象のモデルを実際に作ってみましょう。-->
 Let's make an actual model for learning using combination of Link and Function.

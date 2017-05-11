@@ -1,5 +1,5 @@
 <!-- # 1. 学習対象のモデルを定義する (2) -->
-# Define the model to be learned (2)
+# 1. Define the model to be learned (2)
 <!-- Chainerでは学習可能なモデルをLinkとよびます。 -->
 In Chainer, we call a model which can be learned Link.
 <!-- ディープラーニングで利用される代表的なLinkは `chainer.links` でサポートされています。-->
